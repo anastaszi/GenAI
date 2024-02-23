@@ -6,6 +6,7 @@
 ### Intermediate 
 - [ ] [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) by Andrej Karpathy
 - [ ] [LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)  by The Full Stack
+- [ ] [Article: A Survey of Large Language Models](https://arxiv.org/pdf/2303.18223.pdf)
 
 # Try it out
 - [ ] [LlamaIndex workshop](https://github.com/run-llama/ai-engineer-workshop)
