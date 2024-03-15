@@ -14,3 +14,6 @@
 # Try it out
 - [ ] [LlamaIndex workshop](https://github.com/run-llama/ai-engineer-workshop)
 - [ ] [Open-Source AI Cookbook by HugginFace](https://huggingface.co/learn/cookbook/faiss_with_hf_datasets_and_clip)
+
+# Other Resources
+- [ ] [Cool LLM repos](https://github.com/stars/chiphuyen/lists/cool-llm-repos) by Chip Huyen
