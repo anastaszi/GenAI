@@ -17,3 +17,6 @@
 
 # Other Resources
 - [ ] [Cool LLM repos](https://github.com/stars/chiphuyen/lists/cool-llm-repos) by Chip Huyen
+
+# History + Other thoughts
+- [ ] [8 Google Employees Invented Modern AI. Here’s the Inside Story](https://wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/)
