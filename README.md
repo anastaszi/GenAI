@@ -9,6 +9,7 @@
 ⏳ ![GenAI](https://img.shields.io/badge/-GenAI-ffffff?style=flat&color=000000) [LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)  by The Full Stack ![Google Calendar](https://img.shields.io/badge/-May_2023-ffffff?style=flat&logo=google-calendar&logoColor=4285F4) 
 
 ### Development
+✅ ![Agent](https://img.shields.io/badge/-Agent-ffffff?style=flat&color=8A2BE2) [Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/) 3hr course by CrewAI ![Google Calendar](https://img.shields.io/badge/-May_2024-ffffff?style=flat&logo=google-calendar&logoColor=4285F4) \
 ⏳ ![Agent](https://img.shields.io/badge/-Agent-ffffff?style=flat&color=8A2BE2) [Introduction to LangGraph](https://academy.langchain.com/courses/intro-to-langgraph) 4hr course by LangChain ![Google Calendar](https://img.shields.io/badge/-Sept_2024-ffffff?style=flat&logo=google-calendar&logoColor=4285F4) \
 📋 ![Dev](https://img.shields.io/badge/-Dev-2962ff?style=flat) [Introduction to LangSmith](https://academy.langchain.com/courses/intro-to-langsmith) 4hr course by LangChain ![Google Calendar](https://img.shields.io/badge/-Dec_2024-ffffff?style=flat&logo=google-calendar&logoColor=4285F4)
 
