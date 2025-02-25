@@ -37,7 +37,8 @@
 ## Repos 
 ![GenAI](https://img.shields.io/badge/-GenAI-ffffff?style=flat&color=000000)⭐⭐⭐ [Cool LLM repos](https://github.com/stars/chiphuyen/lists/cool-llm-repos) by Chip Huyen \
 ![RAG](https://img.shields.io/badge/-RAG-2c699a?style=flat) [LlamaIndex workshop](https://github.com/run-llama/ai-engineer-workshop) ![Google Calendar](https://img.shields.io/badge/-Oct_2023-ffffff?style=flat&logo=google-calendar&logoColor=4285F4) \
-![Dev](https://img.shields.io/badge/-Dev-2962ff?style=flat) [Open-Source AI Cookbook by HugginFace](https://huggingface.co/learn/cookbook/index)
+![Dev](https://img.shields.io/badge/-Dev-2962ff?style=flat) [Open-Source AI Cookbook](https://huggingface.co/learn/cookbook/index) by HugginFace \
+![Agent](https://img.shields.io/badge/-Agent-ffffff?style=flat&color=8A2BE2) [GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) by Nir Diamant
 
 ## History + Other thoughts
 ✅ ![AI](https://img.shields.io/badge/-AI-ff6b6b?style=flat)[8 Google Employees Invented Modern AI. Here’s the Inside Story](https://wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/) ![Google Calendar](https://img.shields.io/badge/-Mar_2024-ffffff?style=flat&logo=google-calendar&logoColor=4285F4)
